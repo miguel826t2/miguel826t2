@@ -103,10 +103,10 @@ Independent product development and software experimentation.
 
 <p align="center">
   <img height="165em"
-       src="https://github-readme-stats.vercel.app/api?username=miguel826t&show_icons=true&hide_border=true&theme=github_dark" />
+       src="https://github-readme-stats.vercel.app/api?username=miguel826t2&show_icons=true&hide_border=true&theme=github_dark" />
 
   <img height="165em"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguel826t&layout=compact&hide_border=true&theme=github_dark" />
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguel826t2&layout=compact&hide_border=true&theme=github_dark" />
 </p>
 
 ---
